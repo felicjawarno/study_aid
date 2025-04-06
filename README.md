@@ -2,8 +2,8 @@
 
 A Streamlit-powered application that helps students and learners organize study materials, generate mind maps, create quizzes from PDFs, and interact with their notes using AI.
 
-![Study Assistant Screenshot](![image](https://github.com/user-attachments/assets/2aa2a8a9-65c3-4059-959b-4415247435cb)
-)
+![image](https://github.com/user-attachments/assets/cdc33e93-87e6-4497-8f8b-8031ec597796)
+
 
 ## Features ✨
 
@@ -28,6 +28,8 @@ A Streamlit-powered application that helps students and learners organize study 
   - Automatic question generation
   - Adjustable difficulty levels
   - Interactive quiz interface
+  - ![image](https://github.com/user-attachments/assets/241ed496-340d-4f48-8014-bfe28100fe55)
+
     
 
 ## Installation 🛠️
