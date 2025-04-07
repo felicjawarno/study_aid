@@ -1,6 +1,6 @@
 # Study Assistant 🧠📚
 
-A Streamlit-powered application that helps students and learners organize study materials, generate mind maps, create quizzes from PDFs, and interact with their notes using AI.
+A Streamlit-powered application that helps students and learners organize study materials, generate mind maps, create quizzes from PDFs, and interact with their notes using Gemini 2.0 Flash model.
 
 ![image](https://github.com/user-attachments/assets/cdc33e93-87e6-4497-8f8b-8031ec597796)
 
